@@ -1,0 +1,6 @@
+{
+    "usingComponents": {
+        "van-switch": "/static/vant/switch/index",
+        "van-dialog": "/static/vant/dialog/index"
+      }
+}

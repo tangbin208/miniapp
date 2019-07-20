@@ -1,0 +1,6 @@
+{
+  "navigationBarTitleText": "添加面试",
+    "usingComponents": {
+        "van-toast": "/static/vant/toast/index"
+      }
+}
